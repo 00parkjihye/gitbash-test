@@ -2,4 +2,4 @@
 
 **1. 계산기** : 간단한 계산기 모듈
 
--add, subtract, multiply,divide 등 
+-add, subtract, multiply, divide 등 
