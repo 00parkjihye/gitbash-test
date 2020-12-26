@@ -6,4 +6,3 @@
 -add, subtract, multiply, divide 등 
 =======
 깃배쉬 명령어 연습을 위한 레포지토리
->>>>>>> parent of ba712aa (Simple Revise the text)
